@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-![alt text](./Develop/Images/Work-day-scheduler-photo-demo.png.png)
+![alt text](./Develop/Images/Work-day-scheduler-photo-demo.png)
    
 
 ## Credits
