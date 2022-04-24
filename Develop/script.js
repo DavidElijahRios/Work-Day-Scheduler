@@ -40,7 +40,7 @@ $(".time-block").each(function () {
     // conditional to check past present or future
     if (currentHour === timeBlockHour) {
         $(this).addClass("present");
-    } else if (currentHour < timeBlockHour) {
+    } else if (currentHour < timeBlockHour) {  
         $(this).addClass("past");
     } else if (currentHour > timeBlockHour) {
         $(this).addClass("future");
